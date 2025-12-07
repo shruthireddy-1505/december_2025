@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/shruthireddy-1505/december_2025/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shruthireddy-1505/december_2025/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/shruthireddy-1505/december_2025/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shruthireddy-1505/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -39,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/shruthireddy-1505/december_2025/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/shruthireddy-1505/december_2025/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
