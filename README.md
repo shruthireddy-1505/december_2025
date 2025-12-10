@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shruthireddy-1505/december_2025/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shruthireddy-1505/december_2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shruthireddy-1505/december_2025/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/shruthireddy-1505/december_2025/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/shruthireddy-1505/december_2025/tree/master/0541-reverse-string-ii) |
 | [0905-sort-array-by-parity](https://github.com/shruthireddy-1505/december_2025/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shruthireddy-1505/december_2025/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/shruthireddy-1505/december_2025/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/shruthireddy-1505/december_2025/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shruthireddy-1505/december_2025/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shruthireddy-1505/december_2025/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
