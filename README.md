@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shruthireddy-1505/december_2025/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shruthireddy-1505/december_2025/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shruthireddy-1505/december_2025/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shruthireddy-1505/december_2025/tree/master/0018-4sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruthireddy-1505/december_2025/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shruthireddy-1505/december_2025/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/shruthireddy-1505/december_2025/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/shruthireddy-1505/december_2025/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shruthireddy-1505/december_2025/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shruthireddy-1505/december_2025/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/shruthireddy-1505/december_2025/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
